@@ -50,16 +50,43 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 
 <br/>  
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-## Languages and Tools  
+
+
+### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="CSS3" height="25" />  
-</div>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Data  
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL" height="50" />  
+  
+</div>
+
+</td></tr></table>  
 
 <br/>  
+
+
 
 
 ## Github Stats  
@@ -86,6 +113,3 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
