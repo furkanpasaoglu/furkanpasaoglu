@@ -56,7 +56,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="CSS3" height="25" />  
 </div>  
 
 <br/>  
