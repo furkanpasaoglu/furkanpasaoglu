@@ -27,7 +27,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Javascript Öğreniyorum.  
+- 🔭 
   
 
 - 🌱 C# Dilinde Daha İleri Seviye Gitmek İçin Kendimi Geliştiriyorum.  
