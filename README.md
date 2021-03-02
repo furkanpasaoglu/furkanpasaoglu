@@ -1,6 +1,33 @@
 ## Merhaba 👋, Ben Furkan Paşaoğlu!  
   
 
+
+  
+
+
+
+### Hedef!  
+Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme, iyileştirmeme ve edinmeme yardımcı olacak, cesaretlendirici ve istikrarlı bir şirkette çalışabilmek.  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 Şu an Üzerinde Durduğum Proje  [Kutuphane](github.com/furkanpasaoglu/KutuphaneProjesi-CSharp)
+
+
+- 👨‍💻 Bütün Projelerim Burada [Github](github.com/furkanpasaoglu?tab=repositories)
+
+
+- 🌱⚡ C# Dilinde Daha İleri Seviye Gitmek İçin Kendimi Geliştiriyorum.  
+  
+
+- ❓ Bilgisayar Donanımı veya Yazılımla İlgili Sorularınız Varsa Sorabilirsiniz  
+  
+
 <a href="https://github.com/furkanpasaoglu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,30 +40,6 @@
 <a href="https://instagram.com/furkan.pasaoglu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-### Seni Burda Gördüğüme Memnun Oldum!  
-Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme, iyileştirmeme ve edinmeme yardımcı olacak, cesaretlendirici ve istikrarlı bir şirkette çalışabilmek.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 
-  
-
-- 🌱 C# Dilinde Daha İleri Seviye Gitmek İçin Kendimi Geliştiriyorum.  
-  
-
-- ❓ Teknolojilerle veya Yazılımla İlgili Sorularınız Varsa Sorabilirsiniz  
-  
-
-- ⚡ Acı çekmeden öğrenemeyiz.  
 
 
 </td><td valign="top" width="50%">
