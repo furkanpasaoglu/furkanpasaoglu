@@ -24,7 +24,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 <br/>  
 
 
-## Rapidfire  
+## Hakkımda  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Şu an Üzerinde Durduğum Proje  [Kutuphane](github.com/furkanpasaoglu/KutuphaneProjesi-CSharp)
