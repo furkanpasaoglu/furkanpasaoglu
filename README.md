@@ -1,4 +1,4 @@
-## Merhaba 👋, Ben Furkan Paşaoğlu!  
+## Merhaba, 👋 Ben Furkan Paşaoğlu!  
   
 
 <a href="https://github.com/furkanpasaoglu" target="_blank">
@@ -19,7 +19,7 @@
 
 ### Hedefim!  
 <table><tr><td valign="top">
-Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme, iyileştirmeme ve edinmeme yardımcı olacak, cesaretlendirici ve istikrarlı bir şirkette çalışabilmek.  
+Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme, iyileştirmeme ve edinmeme yardımcı olacak, cesaretlendirici ve istikrarlı bir şirkette çalışabilmek. 
 </td></tr></table>  
 
 <br/>  
