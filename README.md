@@ -54,7 +54,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 
 ## Yetenekler
 
-### Uzmanlık Alanlarım
+### Backend & Frontend
 <h3 align="center">Backend & Frontend</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="70" height="70"/> 
@@ -70,7 +70,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 </p>
 
 
-## Github İstatistikleri
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
