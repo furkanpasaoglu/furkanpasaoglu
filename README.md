@@ -55,12 +55,13 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 ## Yetenekler
 
 ### Uzmanlık Alanlarım
-<h3 align="center">Uzmanlık Alanlarım</h3>
+<h3 align="center">Backend & Frontend</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="70"  height="70" />  
 </p>
 
 <h3 align="center">Frameworkler</h3>
