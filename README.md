@@ -39,7 +39,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 - 🌱⚡ C# Dilinde Daha İleri Seviye Gitmek İçin Kendimi Geliştiriyorum.  
   
 
-- ❓ Bilgisayar Donanımı veya Yazılımla İlgili Sorularınız Varsa Sorabilirsiniz  
+- 📫 Bana nasıl ulaşabilirim: furkan.pasaoglu@hotmail.com
   
 
 </td><td valign="top" width="50%">
