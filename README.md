@@ -67,6 +67,7 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 <h3 align="center">Frameworkler</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="70" height="70"/>
 </p>
 
 
