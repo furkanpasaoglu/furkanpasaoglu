@@ -13,8 +13,8 @@
 <a href="https://instagram.com/furkan.pasaoglu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
- 
-Email:furkan.pasaoglu@hotmail.com
+<a href="mailto:furkan.pasaoglu@hotmail.com" target="_blank">
+<img align="center" src="https://lh3.googleusercontent.com/proxy/rqCNVtOnxWREWu1oaFO8DDkMaojHwsX3zKeWG63wAVeKUPd30clGNB1p8lbMzwqq4Ba9Y2ewd50gBN_1udnHjNKvRxXYZ0s5c4YLmw" alt="furkanpasaoglu" height="30" width="30" /></a>  
 
 
 
