@@ -32,11 +32,9 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 
 - 👨‍💻 Bütün Projelerim Burada [Github](github.com/furkanpasaoglu?tab=repositories)
 
-
-- 🌱⚡ C# Dilinde Daha İleri Seviye Gitmek İçin Kendimi Geliştiriyorum.  
   
 
-- 📫 Bana nasıl ulaşabilirim: furkan.pasaoglu@hotmail.com
+- 📫 Bana nasıl ulaşabilirim: furkan.pasaoglu99@gmail.com
   
 
 </td><td valign="top" width="50%">
