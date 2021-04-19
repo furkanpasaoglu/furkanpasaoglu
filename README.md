@@ -32,7 +32,6 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 
 - 👨‍💻 Bütün Projelerim Burada [Github](github.com/furkanpasaoglu?tab=repositories)
 
-  
 
 - 📫 Bana nasıl ulaşabilirim: furkan.pasaoglu99@gmail.com
   
