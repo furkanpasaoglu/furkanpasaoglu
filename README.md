@@ -24,23 +24,6 @@ Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme,
 <br/>  
 
 
-## Hakkımda  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 Şu an Üzerinde Durduğum Proje  [Rent A Car](https://github.com/furkanpasaoglu/RentACar-Angular)
-
-
-- 👨‍💻 Bütün Projelerim Burada [Github](github.com/furkanpasaoglu?tab=repositories)
-
-
-- 📫 Bana nasıl ulaşabilirim: furkan.pasaoglu99@gmail.com
-  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
