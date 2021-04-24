@@ -18,7 +18,7 @@
 
 ## Hedefim!  
 <table><tr><td valign="top">
-Mümkün oldukça en iyi mühendis olmak için gerekli becerileri geliştirmeme, iyileştirmeme ve edinmeme yardımcı olacak, cesaretlendirici ve istikrarlı bir şirkette çalışabilmek. 
+Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için becerilerimi ve bilgilerimi kullanabileceğim tanınmış bir şirkette pozisyon almak isteyen yüksek motivasyonlu bir bilgisayar programcısı.
 </td></tr></table>  
 
 <br/>  
