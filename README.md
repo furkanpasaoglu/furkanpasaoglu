@@ -2,19 +2,22 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social)  
 
-
 <a href="https://github.com/furkanpasaoglu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/furkanpaşaoğlu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/Furkan.Pasaoglu.47" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/furkan.pasaoglu" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="furkan.pasaoglu99@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+
 
 
 
@@ -44,7 +47,7 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 </p>
 
 
-
+## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
