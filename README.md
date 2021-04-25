@@ -1,5 +1,7 @@
 ## Merhaba, 👋 Ben Furkan Paşaoğlu!  
-  ![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social)  
+
 
 <a href="https://github.com/furkanpasaoglu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,16 +19,14 @@
 
 
 ## Hedefim!  
-<table><tr><td valign="top">
+<table>
+  <tr>
+    <td valign="top">
 Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için becerilerimi ve bilgilerimi kullanabileceğim tanınmış bir şirkette pozisyon almak isteyen yüksek motivasyonlu bir bilgisayar programcısı.
-</td></tr></table>  
+  </td>
+    </tr>
+</table>  
 
-<br/>  
-
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -41,8 +41,6 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="70" height="70" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
-
-
 </p>
 
 
@@ -51,14 +49,3 @@ Yeni şeyler öğrenmek ve bir yazılım geliştiricisi olarak büyümek için b
 <img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 
-  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
