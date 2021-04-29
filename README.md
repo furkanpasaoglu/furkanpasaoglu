@@ -1,7 +1,12 @@
 <h1 align="center">Hi, 👋 I'm Furkan Paşaoğlu! </h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social)  
+![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social) 
+
+<hr>
+
+
+  
 
 <p align="center">
 <a href="https://github.com/furkanpasaoglu" target="_blank">
@@ -23,6 +28,8 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </p>
+
+<hr>
 
 
 - 🌱 I’m currently learning **Java & React**
