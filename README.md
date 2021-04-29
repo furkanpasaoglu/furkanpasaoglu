@@ -2,7 +2,6 @@
 <h3 align="center">A software developer from Turkey</h3>
 
 <br>
-<br>
   
 
 <p align="center">
