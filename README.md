@@ -1,5 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Furkan Paşaoğlu! </h1>
 <h3 align="center">A software developer from Turkey</h3>
+
+<br>
   
 
 <p align="center">
