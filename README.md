@@ -1,11 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Furkan Paşaoğlu! </h1>
 <h3 align="center">A software developer from Turkey</h3>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social) 
-
-<hr>
-
-
   
 
 <p align="center">
@@ -29,7 +23,6 @@
 </a> 
 </p>
 
-<hr>
 
 
 - 🌱 I’m currently learning **Java & React**
@@ -57,5 +50,7 @@
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social) 
 
 
