@@ -23,6 +23,7 @@
 </a> 
 </p>
 
+<hr>
 
 
 - 🌱 I’m currently learning **Java & React**
