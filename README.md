@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at <b>[Here](https://github.com/furkanpasaoglu?tab=repositories)</b>
 
-## Hedefim!  
+## Target!  
 <table>
   <tr>
     <td valign="top">
