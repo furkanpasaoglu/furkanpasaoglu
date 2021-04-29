@@ -21,7 +21,7 @@
 </a> 
 
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Java & React**
 
 - 👨‍💻 All of my projects are available at <b>[Here](https://github.com/furkanpasaoglu?tab=repositories)</b>
 
