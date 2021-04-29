@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Java, React**
 
-- 👨‍💻 All of my projects are available at [Furkan Pasaoglu](https://github.com/furkanpasaoglu?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/furkanpasaoglu?tab=repositories)
 
 
 ## Hedefim!  
