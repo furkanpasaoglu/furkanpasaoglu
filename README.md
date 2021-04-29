@@ -4,9 +4,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social)  
 
-- 🌱 I’m currently learning **Java, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/furkanpasaoglu?tab=repositories](https://github.com/furkanpasaoglu?tab=repositories)
 
 <a href="https://github.com/furkanpasaoglu" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,7 +21,9 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 
+- 🌱 I’m currently learning **Java, React**
 
+- 👨‍💻 All of my projects are available at [https://github.com/furkanpasaoglu?tab=repositories](https://github.com/furkanpasaoglu?tab=repositories)
 
 
 ## Hedefim!  
