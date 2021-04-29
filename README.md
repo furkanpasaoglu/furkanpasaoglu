@@ -20,10 +20,12 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 
+
+<hr>
 - 🌱 I’m currently learning **Java, React**
 
 - 👨‍💻 All of my projects are available at <b>[Here](https://github.com/furkanpasaoglu?tab=repositories)</b>
-
+<hr>
 
 ## Hedefim!  
 <table>
