@@ -36,7 +36,7 @@
 <br/>  
 
 
-## Technologies & Tools
+## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
