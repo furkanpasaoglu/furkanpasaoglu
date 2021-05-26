@@ -33,10 +33,9 @@
 - 👨‍💻 All of my projects are available at <b>[Here](https://github.com/furkanpasaoglu?tab=repositories)</b>
 
 
-<br/>  
 
 
-## Languages and Tools:
+<h2 align="center">:computer: Languages and Tools:</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
@@ -54,10 +53,21 @@
 </p>
 
 
-## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<h2 align="center">:trophy: Stats</h2>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square)   ![Profile follow](https://img.shields.io/github/followers/furkanpasaoglu?style=social) 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=furkanpasaoglu&theme=onedark" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=furkanpasaoglu&show_icons=true&count_private=true&hide_border=true&theme=radical"/> -->
+</p>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square">  <img src="https://img.shields.io/github/followers/furkanpasaoglu?style=social">
+</p>
+
+
+
+
 
 
