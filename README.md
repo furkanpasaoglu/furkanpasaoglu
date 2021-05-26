@@ -63,7 +63,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkanpasaoglu&&style=flat-square">  <img src="https://img.shields.io/github/followers/furkanpasaoglu?style=social">
+  <img src="https://komarev.com/ghpvc/?username=furkanpasaoglu&style=flat-square">  <img src="https://img.shields.io/github/followers/furkanpasaoglu?style=social">
 </p>
 
 
