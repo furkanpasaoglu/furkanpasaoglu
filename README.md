@@ -1,28 +1,13 @@
 <h1 align="center">Hi 👋, I'm Furkan Paşaoğlu</h1>
 <h3 align="center">🖥️ Software Developer</h3>
-<hr>
-
-## <p align="center">🌐 Socials: </p>
-<p align="center">
-    <a href="https://www.hackerrank.com/furkanpasaoglu" target="blank">
-      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/furkanpasaoglu" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:furkan.pasaoglu99@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
-    </a> 
-</p>
-
-<hr>
+<hr/>
 
 ##   <p align="center">💫 About Me:</p>
 <p align="center" style="font-size: 17px;">
     🔭 I’m currently learning .NET Core, Angular & Microservices<br>
 </p>
 
-<hr>
+<hr/>
 
 
 
